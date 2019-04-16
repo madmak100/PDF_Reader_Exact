@@ -1,5 +1,5 @@
 #print(text[2697:2897])
-dir  = "C:\\PyWork\\Headings"
+dir  = ""
 import re
 text = ""
 import spacy
