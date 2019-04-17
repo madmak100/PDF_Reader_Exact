@@ -2,7 +2,7 @@
 """
 Created on Fri Oct 19 23:12:10 2018
 
-@author: sumanth.vaidya
+
 """
 
 from subprocess import call
@@ -119,3 +119,4 @@ if __name__=="__main__":
     converter.convert_scannedpdf_to_jpg()
     converter.convert_jpg_to_pdf()
     converter.merge_pdf()
+                                                                                                                                                            
